@@ -4,3 +4,6 @@ Some changes are made in this file
 
 Editing after adding this file to the remote online repository.
 After editing we have to stage the file,commit it and then push the file into the online repository.
+
+
+Adding clonig to the existing file.
